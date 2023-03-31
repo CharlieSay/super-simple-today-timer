@@ -8,6 +8,7 @@ export default function Home() {
     <main className={inter.className}>
       <section>
         <Timer />
+        <p style={{ textAlign: 'center' }}>Jeff Smells</p>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="179"
